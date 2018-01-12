@@ -1,11 +1,12 @@
 README 
 ======
 
-Readme for your plugin 
+Readme for the Event Bus plugin.
+Provides an event bus more powerful than the traditional listeners registration.
 
-    * Plugin author and contact email address.
+Inspired by the Google Guava EventBus https://github.com/google/guava/wiki/EventBusExplained
+
+    * Author: Vincent Privat <vincent.privat@gmail.com>
     
-    * The license for your plugin source code. If you have no special preferences, 
-      you can pick the license that is used for JOSM ("GPL v2 or later").
-      
-    * Notes for future developers, if needed.
+    * License: JOSM license ("GPL v2 or later").
+ 
